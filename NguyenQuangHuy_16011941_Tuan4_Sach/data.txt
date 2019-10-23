@@ -1,0 +1,5 @@
+MaSach;TuaSach;TacGia;NamXuatBan;NhaXuatBan;SoTrang;DonGia;ISBN;
+A000;We are angles;Scope J;2012;ABF Inc;111;750000.0;1-11-1-11
+A001;That Day By The Pier;Steven Wilson;2017;505 Publication;250;250000.0;22-2-22-2
+A002;Core Java Volume 1 - Fundamentals (9th Edition);Adam FMent;2010;Winton;1520;0.0;555-12-54-54
+A003;From The View Above;David Moje;1994;Piece LLC;750;500.0;222-4-88-123
